@@ -24,9 +24,6 @@
   </a>
 </h4>
 
-
-🧠
-
 |   GPT name                | GPT Description  | Link |
 | :-------------------- | :----------: | :----------: |
 | DALL·E                  | Imagination is transformed into imagery with cutting-edge AI.            | [Chat](#) |
