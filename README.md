@@ -29,8 +29,6 @@
 
 |   GPT name                | GPT Description  | Link |
 | :-------------------- | :----------: | :----------: |
-| GPT name                | GPT Description                                                          | Link |
-|-------------------------|--------------------------------------------------------------------------|------|
 | DALL·E                  | Imagination is transformed into imagery with cutting-edge AI.            | [By ChatGPT](#) |
 | Data Analysis           | Files are analyzed and data visualized, utilizing advanced algorithms.   | [By ChatGPT](#) |
 | ChatGPT Classic         | The latest iteration of GPT-4 is offered without supplementary features. | [By ChatGPT](#) |
