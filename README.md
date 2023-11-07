@@ -1,7 +1,7 @@
 <h2 align="center">Awesome OpenAI GPTs 🧙‍♂️ </h2>
 
 <p align="center">
-  <img width="650" src="https://raw.githubusercontent.com/promptslab/Awesome-Prompt-Engineering/main/_source/prompt.png">
+  <img width="650" src="https://raw.githubusercontent.com/promptslab/Awesome-Openai-GPTs/main/_source/gpts_.png">
 </p>
 
 <p align="center">
