@@ -26,7 +26,7 @@
 
 |   GPT name                | GPT Description  | Link |
 | :-------------------- | :----------: | :----------: |
-| DALL·E                  | Imagination is transformed into imagery with cutting-edge AI.            | [Chat](https://chat.openai.com/g/g-2fkFE8rbu-dall-e) |
+| **DALL·E**                  | Imagination is transformed into imagery with cutting-edge AI.            | [Chat](https://chat.openai.com/g/g-2fkFE8rbu-dall-e) |
 | Data Analysis           | Files are analyzed and data visualized, utilizing advanced algorithms.   | [Chat](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis) |
 | ChatGPT Classic         | The latest iteration of GPT-4 is offered without supplementary features. | [Chat](https://chat.openai.com/g/g-YyyyMT9XH-chatgpt-classic) |
 | Game Time               | Board games and card games are explained for players at any level.       | [Chat](https://chat.openai.com/g/g-Sug6mXozT-game-time) |
