@@ -29,19 +29,19 @@
 
 |   GPT name                | GPT Description  | Link |
 | :-------------------- | :----------: | :----------: |
-| DALL·E                  | Imagination is transformed into imagery with cutting-edge AI.            | [By ChatGPT](#) |
-| Data Analysis           | Files are analyzed and data visualized, utilizing advanced algorithms.   | [By ChatGPT](#) |
-| ChatGPT Classic         | The latest iteration of GPT-4 is offered without supplementary features. | [By ChatGPT](#) |
-| Game Time               | Board games and card games are explained for players at any level.       | [By ChatGPT](#) |
-| The Negotiator          | Assistance is provided to improve negotiation outcomes.                  | [By ChatGPT](#) |
-| Creative Writing Coach  | Feedback is given to enhance writing skills.                             | [By ChatGPT](#) |
-| Cosmic Dream            | Digital art is created with a visionary approach.                        | [By ChatGPT](#) |
-| Tech Support Advisor    | Step-by-step assistance is offered for tech setup and troubleshooting.   | [By ChatGPT](#) |
-| Coloring Book Hero      | Ideas are converted into whimsical coloring book pages.                  | [By ChatGPT](#) |
-| Laundry Buddy           | Guidance is provided on all laundry-related questions.                   | [By ChatGPT](#) |
-| Sous Chef               | Recipes are suggested based on available ingredients and food preferences. | [By ChatGPT](#) |
-| Sticker Whiz            | Dreams are turned into custom die-cut stickers.                          | [By ChatGPT](#) |
-| Math Mentor             | Support is given for parents assisting their kids with math.             | [By ChatGPT](#) |
-| Hot Mods                | Images are transformed into unique and wild creations.                   | [By ChatGPT](#) |
-| Mocktail Mixologist     | Party mocktail recipes are crafted with available ingredients.           | [By ChatGPT](#) |
-| genz 4 meme             | The latest memes and lingo are explained and decoded.                    | [By ChatGPT](#) |
+| DALL·E                  | Imagination is transformed into imagery with cutting-edge AI.            | [Chat](#) |
+| Data Analysis           | Files are analyzed and data visualized, utilizing advanced algorithms.   | [Chat](#) |
+| ChatGPT Classic         | The latest iteration of GPT-4 is offered without supplementary features. | [Chat](#) |
+| Game Time               | Board games and card games are explained for players at any level.       | [Chat](#) |
+| The Negotiator          | Assistance is provided to improve negotiation outcomes.                  | [Chat](#) |
+| Creative Writing Coach  | Feedback is given to enhance writing skills.                             | [Chat](#) |
+| Cosmic Dream            | Digital art is created with a visionary approach.                        | [Chat](#) |
+| Tech Support Advisor    | Step-by-step assistance is offered for tech setup and troubleshooting.   | [Chat](#) |
+| Coloring Book Hero      | Ideas are converted into whimsical coloring book pages.                  | [Chat](#) |
+| Laundry Buddy           | Guidance is provided on all laundry-related questions.                   | [Chat](#) |
+| Sous Chef               | Recipes are suggested based on available ingredients and food preferences. | [Chat](#) |
+| Sticker Whiz            | Dreams are turned into custom die-cut stickers.                          | [Chat](#) |
+| Math Mentor             | Support is given for parents assisting their kids with math.             | [Chat](#) |
+| Hot Mods                | Images are transformed into unique and wild creations.                   | [Chat](#) |
+| Mocktail Mixologist     | Party mocktail recipes are crafted with available ingredients.           | [Chat](#) |
+| genz 4 meme             | The latest memes and lingo are explained and decoded.                    | [Chat](#) |
