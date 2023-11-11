@@ -26,7 +26,7 @@
 
 # Table of Contents
 
-- [ Creative and Artistic Support](#creative-and-artistic-support)
+- [Creative and Artistic Support](#creative-and-artistic-support)
 - [Educational and Learning Assistance](#educational-and-learning-assistance)
 - [Technical and Practical Help](#technical-and-practical-help)
 - [Entertainment and Recreation](#entertainment-and-recreation)
@@ -40,7 +40,7 @@
 | **Sticker Whiz**          | Dreams are turned into custom die-cut stickers. | [Chat](https://chat.openai.com/g/g-gPRWpLspC-sticker-whiz) |
 | **Hot Mods**              | Images are transformed into unique and wild creations. | [Chat](https://chat.openai.com/g/g-fTA4FQ7wj-hot-mods) |
 | **DALL·E**                | Imagination is transformed into imagery with cutting-edge AI. | [Chat](https://chat.openai.com/g/g-2fkFE8rbu-dall-e) |
-
+| **Image Generation with Self-Critique Improvement** | Enhances image generation with self-critique capabilities. | [Chat](https://chat.openai.com/g/g-YVPXvT5zC-image-generation-with-self-critique-improvement) |
 
 ## 🎓 Educational and Learning Assistance:
 
@@ -52,6 +52,8 @@
 | **Game Time**             | Board games and card games are explained for players at any level. | [Chat](https://chat.openai.com/g/g-Sug6mXozT-game-time) |
 | **The Negotiator**        | Assistance is provided to improve negotiation outcomes. | [Chat](https://chat.openai.com/g/g-TTTAK9GuS-the-negotiator) |
 | **Math Mentor**           | Support is given for parents assisting their kids with math. | [Chat](https://chat.openai.com/g/g-ENhijiiwK-math-mentor) |
+| **Mindmap**               | Ideas are organized into structured mindmaps. | [Chat](https://chat.openai.com/g/g-pkeXTdBQQ-mindmap) |
+| **Homework Help**         | Provides help with homework across various subjects. | [Chat](https://chat.openai.com/g/g-n9p3Qo2vK-homework-help) |
 
 ## 🔧 Technical and Practical Help:
 
@@ -61,11 +63,13 @@
 | **Laundry Buddy**         | Guidance is provided on all laundry-related questions. | [Chat](https://chat.openai.com/g/g-QrGDSn90Q-laundry-buddy) |
 | **Sous Chef**             | Recipes are suggested based on available ingredients and food preferences. | [Chat](https://chat.openai.com/g/g-3VrgJ1GpH-sous-chef) |
 | **Mocktail Mixologist**   | Party mocktail recipes are crafted with available ingredients. | [Chat](https://chat.openai.com/g/g-PXlrhc1MV-mocktail-mixologist) |
+| **File Converter**        | Converts files between different formats. | [Chat](https://chat.openai.com/g/g-L9WZ6RpiR-file-converter) |
 
 ## 😎 Entertainment and Recreation:
-
 
 |   GPT name                | GPT Description                            | Link |
 |---------------------------|--------------------------------------------|------|
 | **genz 4 meme**           | The latest memes and lingo are explained and decoded. | [Chat](https://chat.openai.com/g/g-OCOyXYJjW-genz-4-meme) |
 | **Cat Maid**           | A cat-maid that is just brought to your house, with images generated during conversition: just like the Galgame! | [Chat](https://chat.openai.com/g/g-OH049w462-catmaid) |
+| **URL Shortner**          | Shortens lengthy URLs for easier sharing. | [Chat](https://chat.openai.com/g/g-FmVxPJH0E-url-shortner) |
+| **Dog Facts**             | Provides interesting facts about dogs. | [Chat](https://chat.openai.com/g/g-Wn1OixpiL-dog-facts) |
