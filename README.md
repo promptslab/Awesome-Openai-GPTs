@@ -70,5 +70,6 @@
 |   GPT name                | GPT Description                            | Link |
 |---------------------------|--------------------------------------------|------|
 | **genz 4 meme**           | The latest memes and lingo are explained and decoded. | [Chat](https://chat.openai.com/g/g-OCOyXYJjW-genz-4-meme) |
+| **Cat Maid**           | A cat-maid that is just brought to your house, with images generated during conversition: just like the Galgame! | [Chat](https://chat.openai.com/g/g-OH049w462-catmaid) |
 | **URL Shortner**          | Shortens lengthy URLs for easier sharing. | [Chat](https://chat.openai.com/g/g-FmVxPJH0E-url-shortner) |
 | **Dog Facts**             | Provides interesting facts about dogs. | [Chat](https://chat.openai.com/g/g-Wn1OixpiL-dog-facts) |
