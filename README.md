@@ -55,6 +55,7 @@
 | **Mindmap**               | Ideas are organized into structured mindmaps. | [Chat](https://chat.openai.com/g/g-pkeXTdBQQ-mindmap) |
 | **Homework Help**         | Provides help with homework across various subjects. | [Chat](https://chat.openai.com/g/g-n9p3Qo2vK-homework-help) |
 | **YouTubeGPT**            | Summarize and chat with YouTube videos | [Chat](https://chat.openai.com/g/g-VgadmpesQ-youtubegpt) |
+| **Altern**                | Your Guide to AI Solutions: Navigating Tools and Products | [Chat](https://chat.openai.com/g/g-PrJkQhYIu-altern)
 
 ## 🔧 Technical and Practical Help:
 
