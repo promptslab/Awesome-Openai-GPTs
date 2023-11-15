@@ -65,6 +65,7 @@
 | **Sous Chef**             | Recipes are suggested based on available ingredients and food preferences. | [Chat](https://chat.openai.com/g/g-3VrgJ1GpH-sous-chef) |
 | **Mocktail Mixologist**   | Party mocktail recipes are crafted with available ingredients. | [Chat](https://chat.openai.com/g/g-PXlrhc1MV-mocktail-mixologist) |
 | **File Converter**        | Converts files between different formats. | [Chat](https://chat.openai.com/g/g-L9WZ6RpiR-file-converter) |
+| **OCR**                   | Extract text and content from images or PDF documents by | [Chat](https://chat.openai.com/g/g-wETMBcESv-ocr) |
 
 ## 😎 Entertainment and Recreation:
 
